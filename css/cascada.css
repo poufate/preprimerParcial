@@ -1,0 +1,79 @@
+#base_datos{
+width: 70px;
+height: 70px;
+border-radius: 5px;
+
+margin: 10px;
+display: inline;
+}
+footer {
+	background-color: gray;
+	color: white;
+	height: auto;
+	box-sizing: border-box;
+	bottom: 0px;
+	position: fixed;
+	width: 100%;
+}
+.casillasElementos{
+  border:1px solid black;
+  padding: 5px;
+  justify-content: center;
+  text-align: center;
+  display: inline;
+margin: auto;
+}
+
+#img_ingreso{
+  width: 50%;
+  height: 50%;
+  border-radius: 5px;
+  display: block;
+margin: auto;
+border:2px solid green;
+}
+.formulario *{
+ margin-top: auto;
+ margin-bottom: auto;
+ border: auto;
+}
+
+header{
+  background-color: green;
+}
+p{
+color: black;
+  display: inline;
+}
+
+.imagenesContenido{
+  height: 100px;
+  border-bottom: 1px solid red;
+
+
+  display: block;
+margin: auto;
+}
+#login{
+  margin-top: 20px;
+  border: 2px solid green;
+}
+.centrados{
+
+  text-align: center;
+  padding: 2px;
+  display: inline;
+margin: auto;
+}
+
+#items div{
+  border: 1px solid black;
+  height: 200px
+}
+
+.imagenesPequeñas{
+  width: 20px;
+  display: block;
+  border-right: 0%;
+  border-left:99%;
+}

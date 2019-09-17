@@ -1,0 +1,23 @@
+[{
+    "imagen": "https://s3-us-west-2.amazonaws.com/devcodepro/media/blog/que-es-sql.png",
+    "titulo": "conceptos",
+    "link": "#"
+
+  },
+  {
+    "imagen":"https://medstatic.com/251/conversions/piramide-de-maslow-large.jpg",
+    "titulo":"niveles ",
+    "link":"#"
+
+  },
+  {
+    "imagen":"https://previews.123rf.com/images/madozi/madozi1311/madozi131100020/23858014-antigua-ilustraci%C3%B3n-llave-de-oro-sobre-fondo-blanco.jpg",
+    "titulo":"llaves primarias y foraneas",
+    "link":"#"
+  },
+  {
+    "imagen":"https://i0.wp.com/plumasatomicas.com/wp-content/uploads/2019/07/gatitos.jpeg?fit=800%2C450&ssl=1",
+    "titulo":"modelado de entidad-relación",
+    "link":"#"
+  }
+]

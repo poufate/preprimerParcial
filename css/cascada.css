@@ -12,7 +12,6 @@ footer {
 	height: auto;
 	box-sizing: border-box;
 	bottom: 0px;
-	position: fixed;
 	width: 100%;
 }
 .casillasElementos{
@@ -62,7 +61,7 @@ margin: auto;
 
   text-align: center;
   padding: 2px;
-  display: inline;
+  display: block;
 margin: auto;
 }
 
@@ -75,5 +74,5 @@ margin: auto;
   width: 20px;
   display: inline;
   border: 0;
-	
+
 }

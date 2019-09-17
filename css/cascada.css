@@ -73,7 +73,7 @@ margin: auto;
 
 .imagenesPequeñas{
   width: 20px;
-  display: block;
-  border-right: 0%;
-  border-left:99%;
+  display: inline;
+  border: 0;
+	
 }
